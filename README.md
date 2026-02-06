@@ -39,6 +39,9 @@ Ideal for:
 - Enterprise dashboards
 
 ---
+✅ Recommended (README / docs)
+
+Note: In our case, Google One Tap was tested and confirmed to work in production environments. It may not function correctly in local development environments, depending on browser settings, HTTPS requirements, and Google account state.
 
 ## Installation
 
