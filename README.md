@@ -201,20 +201,7 @@ MIT
 
 ---
 
-### Why this helps SEO & credibility
 
-- npm search indexes README text
-- Keywords section improves discovery
-- “Why This Package” speaks to CTOs & founders
-- Sponsor section builds trust + brand recall
-
-If you want next:
-- npm **badge section**
-- GitHub **Open Graph preview**
-- short **landing page copy**
-- or auto-generated **TypeScript types**
-
-Just tell me 🚀
 
 
 ---
